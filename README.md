@@ -4,7 +4,7 @@
 
 
 <h2>  
-  <p align="center"> Hi 👋 welcome to ShadowOHDavidAZ75's profile page </p>   
+  <p align="center"> Hi 👋 welcome to David Umberger's profile page </p>   
 </h2>
 
 <p align="center"> 
